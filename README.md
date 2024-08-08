@@ -16,6 +16,3 @@ Welcome to the AI Chatbot project! This chatbot is powered by the ReAct (Reasoni
 
 ### Contributing
 We welcome contributions!
-
-### License
-This project is licensed under the [MIT License](LICENSE).
