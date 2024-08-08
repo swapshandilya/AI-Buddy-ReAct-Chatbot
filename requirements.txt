@@ -1,0 +1,8 @@
+httpx
+json
+bs4
+requests
+re 
+streamlit
+groq
+dotenv
