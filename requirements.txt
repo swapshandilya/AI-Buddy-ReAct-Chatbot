@@ -2,4 +2,3 @@ bs4
 requests
 streamlit
 groq
-dotenv
