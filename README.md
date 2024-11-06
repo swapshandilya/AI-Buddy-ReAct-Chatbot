@@ -15,5 +15,3 @@ Welcome to the AI Chatbot project! This chatbot is powered by the ReAct (Reasoni
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the chatbot: `streamlit run main.py`
 
-### Contributing
-We welcome contributions!
